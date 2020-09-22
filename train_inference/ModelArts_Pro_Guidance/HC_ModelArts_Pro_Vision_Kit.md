@@ -30,7 +30,8 @@
 * 目标区域选择北京四，目标位置选择上面创建的OBS桶。
 * 填写好参数后，点击“下一步”按钮，然后点击“确定”按钮。等待数据集状态变为推送成功（可以点击右上角“刷新”按钮刷新状态），即可在OBS对应的桶中看到下载的数据集。
 
-在“应用开发>数据选择”页面，单击“新建训练数据集”，右侧弹出“新建数据集”页面，根据数据存储位置和数据标注情况，按[表3](https://support.huaweicloud.com/usermanual-modelartspro/modelartspro_01_0060.html#modelartspro_01_0060__table1455214220167)填写数据集基本信息，然后单击“确定”。
+在“应用开发>数据选择”页面，单击“新建训练数据集”，右侧弹出“新建数据集”页面，根据数据存储位置和数据标注情况，按[表3](https://support.huaweicloud.com/usermanual-modelartspro/modelartspro_01_0060.html#modelartspro_01_0060__table1455214220167)填写数据集基本信息，然后单击“确定”，**本案例中，输入位置为导入的数据集中的cake\_data文件，输出位置选择或新建一个空文件夹**。
+
 ![](./_image/image018.png)
 
 
